@@ -23,10 +23,9 @@
         enableHtml: false,
         fullStyle: [
           `/*
-* Inspired by http://strml.net/
-* 大家好，我是方方
-* 二月了，好多公司都在招聘，你是不是也在准备简历呀。
-* 说做就做，我也来写一份简历！
+* 你好呀！这里是南华大学计算机学院USC-AIR团队
+* 真开心你来到了这个界面~
+* 现在，让我们一起看看我的动态简历吧！
 */
 
 /* 首先给所有元素加上过渡效果 */
@@ -78,7 +77,7 @@ html{
 `,
           `
 /* 这个简历好像差点什么
- * 对了，这是 Markdown 格式的，我需要变成对 HR 更友好的格式
+ * 对了，这是 Markdown 格式的，我需要变成更适合我们观看的格式
  * 简单，用开源工具翻译成 HTML 就行了
  */
 `
@@ -115,35 +114,70 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `方应杭
+        fullMarkdown: `
+USC-AIR
+----
+南华大学计算机学院USC-AIR（Artificial Intelligence Robot）团队为院直属团队，于2017年12月成功申请为校级团队，并入驻南华大学创新创业学院工程实训中心。
+
+Contact
+---
+
+* Address: **the University of South China - 28 Changsheng West Road- Hunan, China**
+* E-mail: **airusc@foxmail.com**
+* QQ：**3458038461**
+* Blog: **[https://uscair.club](https://airusc.github.io/)**
+* Introduction:**A professional team studying artificial intelligence and robotics**
+* Instructor:**Dr. Mao Yu**
+* GitHub: **[https://github.com/AIR-USC](https://github.com/AIR-USC)**
+
+发展理念
 ----
 
-资深前端工程师，资深前端讲师，现在在 [饥人谷](http://jirengu.com) 教前端课程。
+* 机器人编程
+* 底层开发
+* 硬件维护
+* 学术研究
+* 项目工程
 
-技能
+学术科研
+---
+* 数字图像处理
+* 机器学习
+* 人工智能
+
+获奖经历
 ----
 
-* 前端开发
-* Rails 开发
-* Node.js 开发
-* 前端授课
+### National Competition
+- **One Second Prize & One Third Prize**, [2017 World Robot Contest Fighting Robot Competition]
+<img src='https://s1.ax1x.com/2020/05/05/YF7mGj.jpg' width="100%" >
+<img src='https://s1.ax1x.com/2020/05/05/YFqmJe.jpg' width='100%'>
+- **One Second Prize & Three Third Prizes**,[“Soft Silver Robot Cup” China robot skill competition] Dec. 2018
+<img src='https://s1.ax1x.com/2020/05/05/YFLcHP.png' width="100%">
+<img src='https://s2.ax1x.com/2020/02/01/1GgUd1.jpg' width="100%">
+<img src='https://s1.ax1x.com/2020/05/05/YFOCHx.png' width="100%">
+<img src='https://s1.ax1x.com/2020/05/05/YFO7xH.png' width="100%">
 
-工作经历
-----
+### Provincial Competition
+- **One First Prize & Two Third Prizes**, [The 15th Hunan University Student Computer Program Design Competition] Aug. 2019
+<img src='https://s2.ax1x.com/2020/02/01/1Gy3xH.jpg' width="100%">
+<img src='https://s2.ax1x.com/2020/02/01/1GyRoV.jpg' width="100%">
 
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+- **One Third Prize**, [The 14th Hunan University Student Computer Program Design Competition] Sep. 2018
+<img src='https://gowi-picgo.oss-cn-shenzhen.aliyuncs.com/picgo/ACM201801.jpg' width="100%">
 
-链接
-----
+- **Two Third Prize**, [The 13th Hunan University Student Computer Program Design Competition] Sep. 2017
+<img src='https://s1.ax1x.com/2020/05/05/YFvKbR.jpg' width="100%">
+<img src='https://s1.ax1x.com/2020/05/05/YFvaqA.jpg' width="100%">
 
-* [GitHub](https://github.com/frankfang)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
+科研成就
+---
 
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
+ **Grade 16 Qiu Zhongxi published EI paper as first author**
+<img src='https://s2.ax1x.com/2020/02/01/1GcK3D.png' width="100%">
 
+
+> 回到博客主页，请[点击此处](http://uscair.club)！
 `
       }
     },
